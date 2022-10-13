@@ -114,7 +114,9 @@ Linked List 2 -
 2. Merge two sorted linked lists
 3. Merge Sort
 4. reverseLLrecursively
-
+5. reverseLLrecursively Approach2
+6. reverseLLrecursively Approach2_better
+7. evenAfterOddLL
 
 
 
