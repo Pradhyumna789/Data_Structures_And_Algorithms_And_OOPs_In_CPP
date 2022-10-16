@@ -117,6 +117,11 @@ Linked List 2 -
 5. reverseLLrecursively Approach2
 6. reverseLLrecursively Approach2_better
 7. evenAfterOddLL
+8. Delete every N nodes
+9. Swap two nodes of LL
+10. kReverse
+11. BubbleSort(iterative)LL
+12. PalindromeLL
 
 
 
