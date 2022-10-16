@@ -125,6 +125,9 @@ Linked List 2 -
 
 
 
+Stacks and Queues -
+1. Stack using array
+2. 
 
 
 
