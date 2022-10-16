@@ -85,3 +85,20 @@ return data[nextIndex];
 
 }
 
+
+int top() {
+
+if (isEmpty()) {
+
+cout << "Stack is empty" << endl;
+return INT_MIN;
+
+}
+
+return data[nextIndex - 1];
+
+}
+
+
+
+
