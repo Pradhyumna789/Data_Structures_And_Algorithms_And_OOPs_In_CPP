@@ -129,7 +129,7 @@ Stacks and Queues -
 1. Stack using array
 2. stackUsingArray(using templates)
 3. stackUsingLL
-4.
+4. usingInbuiltStack
 
 
 
