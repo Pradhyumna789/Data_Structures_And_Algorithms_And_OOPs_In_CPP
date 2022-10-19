@@ -132,6 +132,7 @@ Stacks and Queues -
 4. usingInbuiltStack
 5. balancedParenthesis
 6. QueueUsingArray
+7. QueueUsingLL
 
 
 
