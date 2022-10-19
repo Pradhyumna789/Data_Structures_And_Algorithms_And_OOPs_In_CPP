@@ -134,6 +134,7 @@ Stacks and Queues -
 6. QueueUsingArray
 7. QueueUsingLL
 8. usingInbuiltQueue
+9. reverseStack
 
 
 
