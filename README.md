@@ -137,6 +137,7 @@ Stacks and Queues -
 9. reverseStack
 10. reverseQueue
 11. checkRedundantBrackets
+12. stockSpan
 
 
 
