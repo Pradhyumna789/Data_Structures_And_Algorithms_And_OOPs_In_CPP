@@ -135,6 +135,8 @@ Stacks and Queues -
 7. QueueUsingLL
 8. usingInbuiltQueue
 9. reverseStack
+10. reverseQueue
+11. checkRedundantBrackets
 
 
 
