@@ -138,6 +138,7 @@ Stacks and Queues -
 10. reverseQueue
 11. checkRedundantBrackets
 12. stockSpan
+13. minimumBracketReversal
 
 
 
