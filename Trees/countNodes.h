@@ -2,6 +2,12 @@
 #include <queue>
 
 int numNodes (TreeNode<int>* root) {
+  
+ if (root == NULL) {
+ 
+   return 0;
+   
+ }
 
 int ans = 1;
 
