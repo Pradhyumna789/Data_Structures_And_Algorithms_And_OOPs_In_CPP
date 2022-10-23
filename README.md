@@ -148,7 +148,7 @@ Trees -
 4. countNodes
 5. sumOfNodes
 6. maxDataNode
-7.
+7. findHeight
 
 
 
