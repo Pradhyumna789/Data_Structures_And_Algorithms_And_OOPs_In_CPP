@@ -149,7 +149,7 @@ Trees -
 5. sumOfNodes
 6. maxDataNode
 7. findHeight
-
+8. depthOfNode
 
 
 
