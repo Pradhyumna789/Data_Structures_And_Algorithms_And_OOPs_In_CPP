@@ -144,6 +144,7 @@ Stacks and Queues -
 Trees -
 1. TreeNodeClass
 2. takeInput()
+3. printLevelWise
 
 
 
