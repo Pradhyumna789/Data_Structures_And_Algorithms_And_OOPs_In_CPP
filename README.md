@@ -146,7 +146,7 @@ Trees -
 2. takeInput()
 3. printLevelWise
 4. countNodes
-5.
+5. sumOfNodes
 
 
 
