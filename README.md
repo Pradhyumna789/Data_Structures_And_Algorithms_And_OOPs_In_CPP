@@ -151,6 +151,8 @@ Trees -
 7. findHeight
 8. depthOfNode
 9. countLeafNodes
+10. preorderTraversal
+11. 
 
 
 
