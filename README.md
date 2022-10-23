@@ -153,7 +153,7 @@ Trees -
 9. countLeafNodes
 10. preorderTraversal
 11. postOrderTraversal
-12. 
+12. deleting_a_Tree
 
 
 
