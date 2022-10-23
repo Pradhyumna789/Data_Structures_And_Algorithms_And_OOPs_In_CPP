@@ -154,6 +154,9 @@ Trees -
 10. preorderTraversal
 11. postOrderTraversal
 12. deleting_a_Tree
+13. containsX
+14.
+15.
 
 
 
