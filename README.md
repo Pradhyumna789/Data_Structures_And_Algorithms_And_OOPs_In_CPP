@@ -147,6 +147,8 @@ Trees -
 3. printLevelWise
 4. countNodes
 5. sumOfNodes
+6. maxDataNode
+7.
 
 
 
