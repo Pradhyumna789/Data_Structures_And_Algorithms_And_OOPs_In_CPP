@@ -152,7 +152,8 @@ Trees -
 8. depthOfNode
 9. countLeafNodes
 10. preorderTraversal
-11. 
+11. postOrderTraversal
+12. 
 
 
 
