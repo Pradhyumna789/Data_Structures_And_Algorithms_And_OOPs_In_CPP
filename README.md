@@ -156,7 +156,7 @@ Trees -
 12. deleting_a_Tree
 13. containsX
 14. largerNodeCount
-15.
+15. nodeWithMaxChildSum
 
 
 
