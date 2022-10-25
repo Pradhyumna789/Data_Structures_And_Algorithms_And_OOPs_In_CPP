@@ -158,6 +158,7 @@ Trees -
 14. largerNodeCount
 15. nodeWithMaxChildSum
 16. structurallyIdentical
+17. nextLarger
 
 
 
