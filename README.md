@@ -84,14 +84,14 @@ Recursion 2 -
 7. Check AB
 8. Staircase
 9. Binary search(Recursive)
-10. Return subset of an array
-11. Print subsets of an array
-12. Return subsets sum to K
-13. Print subset sum to K
-14. Return all codes - String
-15. Print all codes - String
-16. Return permutations - String
-17. Print permutations
+10. Return subset of an array - not uploaded
+11. Print subsets of an array - not uploaded
+12. Return subsets sum to K - not uploaded
+13. Print subset sum to K - not uploaded
+14. Return all codes - String - not uploaded
+15. Print all codes - String - not uploaded
+16. Return permutations - String - not uploaded
+17. Print permutations - not uploaded
 
 
 
