@@ -159,6 +159,8 @@ Trees -
 15. nodeWithMaxChildSum
 16. structurallyIdentical
 17. nextLarger
+18. secondLargestElementInTree - not uploaded
+19. replaceWithDepth
 
 
 
