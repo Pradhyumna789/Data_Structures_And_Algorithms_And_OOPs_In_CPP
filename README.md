@@ -106,7 +106,7 @@ Linked List 1 -
 8. Append last N to first
 9. Elimate duplicates from LL
 10. Print reverse Linked list
-
+11. palindromeLL - not uploaded
 
 
 Linked List 2 -
@@ -117,11 +117,11 @@ Linked List 2 -
 5. reverseLLrecursively Approach2
 6. reverseLLrecursively Approach2_better
 7. evenAfterOddLL
-8. Delete every N nodes
-9. Swap two nodes of LL
-10. kReverse
-11. BubbleSort(iterative)LL
-12. PalindromeLL
+8. Delete every N nodes - not uploaded
+9. Swap two nodes of LL - not uploaded
+10. kReverse - not uploaded
+11. BubbleSort(iterative)LL - not uploaded
+
 
 
 
