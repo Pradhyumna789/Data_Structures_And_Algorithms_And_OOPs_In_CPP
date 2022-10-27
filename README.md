@@ -162,10 +162,9 @@ Trees -
 18. secondLargestElementInTree - not uploaded
 19. replaceWithDepth
 
-
-
-
-
+Binary Tree -
+1. Depth of a Node
+2. BinaryTreeNodeClass
 
 
 
