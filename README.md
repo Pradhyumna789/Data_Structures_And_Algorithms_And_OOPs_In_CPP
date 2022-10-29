@@ -168,6 +168,9 @@ Binary Tree -
 3. takeInputAndPrint
 4. printLevelWise
 5. countNodes
+6. findNode
+7. heightOfABinaryTree
+8. mirrorAbinaryTree
 
 
 
