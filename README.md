@@ -171,7 +171,8 @@ Binary Tree -
 6. findNode
 7. heightOfABinaryTree
 8. mirrorAbinaryTree
-
+9. ConstructTreeFromPreAndIn.cpp
+10. ConstructTreeFromPostAndIn.cpp
 
 
 
