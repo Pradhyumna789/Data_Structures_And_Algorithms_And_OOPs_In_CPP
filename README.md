@@ -173,6 +173,12 @@ Binary Tree -
 8. mirrorAbinaryTree
 9. ConstructTreeFromPreAndIn.cpp
 10. ConstructTreeFromPostAndIn.cpp
+11. sumOfNodes
+12. checkBalanced
+13. levelOrderTraversal
+14. removeLeafNodes
+15. levelWiseLinkedList
+16. zigZagTree
 
 
 
