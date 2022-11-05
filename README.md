@@ -181,6 +181,12 @@ Binary Tree -
 16. zigZagTree
 
 
+Binary Search Tree -
+1. searchInBST
+2.
+3.
+
+
 
 
 
