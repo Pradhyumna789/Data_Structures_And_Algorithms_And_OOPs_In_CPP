@@ -185,6 +185,7 @@ Binary Search Tree -
 1. searchInBST
 2. elementsInRangeK1K2
 3. checkIfBST
+4. constructBSTfromArr
 
 
 
