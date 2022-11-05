@@ -183,8 +183,8 @@ Binary Tree -
 
 Binary Search Tree -
 1. searchInBST
-2.
-3.
+2. elementsInRangeK1K2
+3. checkIfBST
 
 
 
