@@ -188,7 +188,7 @@ Binary Search Tree -
 4. constructBSTfromArr
 5. BSTtoSortedLL.cpp
 6. findPath
-
+7. BST_Class
 
 
 
