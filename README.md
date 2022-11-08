@@ -189,7 +189,7 @@ Binary Search Tree -
 5. BSTtoSortedLL.cpp
 6. findPath
 7. BST_Class
-
+8. createAndInsertDuplicates
 
 
 
