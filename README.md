@@ -190,7 +190,7 @@ Binary Search Tree -
 6. findPath
 7. BST_Class
 8. createAndInsertDuplicates
-
+9. pairSumBT
 
 
 
