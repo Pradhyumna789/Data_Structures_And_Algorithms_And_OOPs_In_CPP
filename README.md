@@ -192,6 +192,6 @@ Binary Search Tree -
 8. createAndInsertDuplicates
 9. pairSumBT
 10. LCAofBT
-
+11. LCAofBST
 
 
