@@ -195,3 +195,4 @@ Binary Search Tree -
 11. LCAofBST
 12. largestBST
 13. replaceWithSumOfGreaterNodes
+14. pathSumRootToLeaf
