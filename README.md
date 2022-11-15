@@ -207,4 +207,8 @@ Priority Queues -
 6. kSortedArray
 7. kSmallest
 8. kLargest
-
+9. checkMaxHeap
+10. kthLargestElement
+11. mergeKsortedArrays
+12. runningMedian
+13. buyTheTicket
