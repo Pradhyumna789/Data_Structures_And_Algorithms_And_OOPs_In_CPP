@@ -196,6 +196,8 @@ Binary Search Tree -
 12. largestBST
 13. replaceWithSumOfGreaterNodes
 14. pathSumRootToLeaf
+15. printNodesAtDistanceKfromNode - not uploades
+16. pairSumInBST - not uploaded
 
 
 Priority Queues -
