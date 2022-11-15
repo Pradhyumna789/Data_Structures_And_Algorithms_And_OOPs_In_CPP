@@ -196,3 +196,10 @@ Binary Search Tree -
 12. largestBST
 13. replaceWithSumOfGreaterNodes
 14. pathSumRootToLeaf
+
+
+Priority Queues -
+1. Implementation part 1
+2. Implementation part 2
+3. Inplace Heap Sort
+4. Inbuilt Priority Queue
