@@ -203,3 +203,8 @@ Priority Queues -
 2. Implementation part 2
 3. Inplace Heap Sort
 4. Inbuilt Priority Queue
+5. Inbuilt Min Priority Queue
+6. kSortedArray
+7. kSmallest
+8. kLargest
+
