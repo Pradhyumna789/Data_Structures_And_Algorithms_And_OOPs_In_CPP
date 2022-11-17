@@ -196,7 +196,7 @@ Binary Search Tree -
 12. largestBST
 13. replaceWithSumOfGreaterNodes
 14. pathSumRootToLeaf
-15. printNodesAtDistanceKfromNode - not uploades
+15. printNodesAtDistanceKfromNode - not uploaded
 16. pairSumInBST - not uploaded
 
 
@@ -214,3 +214,4 @@ Priority Queues -
 11. mergeKsortedArrays
 12. runningMedian
 13. buyTheTicket
+14. mergeKsortedArrays - not uploaded
