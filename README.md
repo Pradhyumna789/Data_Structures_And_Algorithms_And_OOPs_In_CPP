@@ -215,3 +215,10 @@ Priority Queues -
 12. runningMedian
 13. buyTheTicket
 14. mergeKsortedArrays - not uploaded
+
+Hash Maps -
+1. Remove Duplicates
+2. Maximum Frequency Number
+3. Print Intersection
+4. Pair Sum To zero(0)
+5.
