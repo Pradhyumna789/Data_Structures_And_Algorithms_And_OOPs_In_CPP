@@ -222,3 +222,4 @@ Hash Maps -
 3. Print Intersection
 4. Pair Sum To zero(0)
 5. Iterators
+6. hashingImplementation
