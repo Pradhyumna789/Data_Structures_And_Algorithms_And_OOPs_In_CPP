@@ -223,3 +223,7 @@ Hash Maps -
 4. Pair Sum To zero(0)
 5. Iterators
 6. hashingImplementation
+7. extractUniqueCharacters
+8. longestConsecutiveSequence
+9. pairsWithDifferenceK
+10. longestSubsetZeroSum
