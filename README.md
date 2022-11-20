@@ -227,3 +227,8 @@ Hash Maps -
 8. longestConsecutiveSequence
 9. pairsWithDifferenceK
 10. longestSubsetZeroSum
+
+Tries and Huffman Coding -
+1. Tries_Implementation.h
+2. Trie.h
+3.
