@@ -231,4 +231,16 @@ Hash Maps -
 Tries and Huffman Coding -
 1. Tries_Implementation.h
 2.
+3.
+4.
+
+Backtracking -
+1. N_Queen
+2. Rat_Maze
+3. Crossword
+4. Suduko_Solver
+5. Subset_Sum
+
+
+
 
