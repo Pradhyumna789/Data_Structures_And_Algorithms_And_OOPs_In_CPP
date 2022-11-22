@@ -240,6 +240,9 @@ Backtracking -
 3. Crossword
 4. Suduko_Solver
 5. Subset_Sum
+6. Pattern_Matching
+7. Palindrome_Pair
+8. Auto_Complete
 
 
 
