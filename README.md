@@ -230,9 +230,9 @@ Hash Maps -
 
 Tries and Huffman Coding -
 1. Tries_Implementation.h
-2.
-3.
-4.
+2. Pattern_Matching
+3. Palindrome_Pair
+4. Auto_Complete
 
 Backtracking -
 1. N_Queen
@@ -240,9 +240,7 @@ Backtracking -
 3. Crossword
 4. Suduko_Solver
 5. Subset_Sum
-6. Pattern_Matching
-7. Palindrome_Pair
-8. Auto_Complete
+
 
 
 
