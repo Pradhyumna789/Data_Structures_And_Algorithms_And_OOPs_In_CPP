@@ -231,15 +231,15 @@ Hash Maps -
 Tries and Huffman Coding -
 1. Tries_Implementation.h
 2. Pattern_Matching
-3. Palindrome_Pair
-4. Auto_Complete
+3. Palindrome_Pair - not uploaded
+4. Auto_Complete - not uploaded
 
 Backtracking -
 1. N_Queen
 2. Rat_Maze
-3. Crossword
-4. Suduko_Solver
-5. Subset_Sum
+3. Crossword - not uploaded
+4. Suduko_Solver - not uploaded
+5. Subset_Sum - not uploaded
 
 
 
