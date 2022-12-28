@@ -241,7 +241,16 @@ Backtracking -
 4. Suduko_Solver - not uploaded
 5. Subset_Sum - not uploaded
 
+Dynammic Programming 1 -
+1. Fibonacci
+2. minStepsTo1
+3. stairCaseUsingDP
+4. minCount
+5. numOfBalancedBTS
 
+Dynammic programming 2 -
 
+Graphs 1 -
 
+Graphs 2 -
 
