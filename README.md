@@ -106,7 +106,7 @@ Linked List 1 -
 8. Append last N to first
 9. Elimate duplicates from LL
 10. Print reverse Linked list
-11. palindromeLL - not uploaded
+11. palindromeLL 
 
 
 Linked List 2 -
