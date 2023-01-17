@@ -159,7 +159,7 @@ Trees -
 15. nodeWithMaxChildSum
 16. structurallyIdentical
 17. nextLarger
-18. secondLargestElementInTree - not uploaded
+18. secondLargestElementInTree
 19. replaceWithDepth
 
 Binary Tree -
@@ -196,8 +196,8 @@ Binary Search Tree -
 12. largestBST
 13. replaceWithSumOfGreaterNodes
 14. pathSumRootToLeaf
-15. printNodesAtDistanceKfromNode - not uploaded
-16. pairSumInBST - not uploaded
+15. printNodesAtDistanceKfromNode
+16. pairSumInBST 
 
 
 Priority Queues -
