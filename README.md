@@ -237,9 +237,7 @@ Tries and Huffman Coding -
 Backtracking -
 1. N_Queen
 2. Rat_Maze
-3. Crossword 
-4. Suduko_Solver 
-5. Subset_Sum 
+3. Suduko_Solver 
 
 Dynammic Programming 1 -
 1. Fibonacci
