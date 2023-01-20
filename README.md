@@ -249,8 +249,29 @@ Dynammic Programming 1 -
 5. numOfBalancedBTS
 
 Dynammic programming 2 -
+1. allPossibleWays
+2. editDistance
+3. KnapSack
+4. LCS
+5. longestIncreasingSubsequence
+6. lootHouses
+7. minCostPath
+8. shortestSubsequence
 
 Graphs 1 -
+1. getPathDFS
+2. getPathBFS
+3. hasPath
+4. isConnected
+5. islands
+6. returnAllConnectedComponents
+7. codingNinjas
+8. connectingDots
+9. 3cycle
+10. largestPiece
 
 Graphs 2 -
+1. kruskalsAlgo
+2. primsAlgo
+3. DjistrasAlgo
 
